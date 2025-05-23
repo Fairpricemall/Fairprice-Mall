@@ -1,6 +1,6 @@
 === Delivery Timeline Estimator ===
-Contributors: julesai
-Donate link: https://example.com/donate
+Contributors: Ogwal Aaron
+Donate link: https://
 Tags: delivery, shipping, timeline, estimate, cutoff, shortcode
 Requires at least: 5.0
 Tested up to: 6.4
