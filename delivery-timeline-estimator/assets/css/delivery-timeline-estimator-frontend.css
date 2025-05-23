@@ -1,0 +1,11 @@
+/* Styles for the Delivery Timeline Estimator */
+.estimated-shipping-day {
+    display: inline-block; /* Or block, depending on desired layout */
+    padding: 5px 10px;
+    border: 1px solid #e0e0e0;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: #333;
+    margin: 5px 0;
+}
